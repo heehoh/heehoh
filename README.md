@@ -2,7 +2,7 @@
 
 **42서울 본과정** <sub><sup>(2023.11.07 ~ )</sup></sub>   
 
-[![hujeong's 42 stats](https://badge.mediaplus.ma/greenbinary/hujeong?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![hujeong's 42 stats](https://badge.mediaplus.ma/water/hujeong?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heehoh&show_icons=true&theme=radical)
 
