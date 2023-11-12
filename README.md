@@ -1,6 +1,6 @@
 ## hujeong 🍉
 
-**42서울 본과정** <sub><sup>(2023.11.07 ~ )</sup></sub>   
+**42서울 본과정** <sub><sup>(2022.11.07 ~ )</sup></sub>   
 
 [![hujeong's 42 stats](https://badge.mediaplus.ma/darkblue/hujeong?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
