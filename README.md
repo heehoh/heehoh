@@ -2,8 +2,6 @@
 
 **42서울 본과정** <sub><sup>(2022.11.07 ~ )</sup></sub>   
 
-[![hujeong's 42 stats](https://badge.mediaplus.ma/darkblue/hujeong?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heehoh&show_icons=true&theme=radical)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeho)](https://solved.ac/heeho)
