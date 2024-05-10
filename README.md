@@ -1,6 +1,6 @@
 ## hujeong 🍉
 
-**42서울 본과정** <sub><sup>(2022.11.07 ~ )</sup></sub>   
+**42Seoul 본과정** <sub><sup>(2022.11.07 ~ )</sup></sub>   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heehoh&show_icons=true&theme=radical)
 
