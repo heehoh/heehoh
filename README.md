@@ -1,11 +1,10 @@
 ## hujeong 🍉
 
 **42Seoul 본과정** <sub><sup>(2022.11.07 ~ )</sup></sub>   
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heehoh&show_icons=true&theme=radical)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heeho)](https://solved.ac/heeho)
-
+<p align='center'>
+  <img height=150 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heeho" alt="solvedac badge"/>
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=heehoh&show_icons=true&theme=radical" alt="github stat"/>
+</p>
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
