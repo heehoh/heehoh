@@ -1,6 +1,6 @@
-## hujeong 🍉
+## heeho 🍉
 
-**42Seoul 본과정** <sub><sup>(2022.11.07 ~ )</sup></sub>   
+**42Seoul (hujeong)** <sub><sup>(2022.11.07 ~ )</sup></sub>   
 <p align='center'>
   <img height=150 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heeho" alt="solvedac badge"/>
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=heehoh&show_icons=true&theme=radical" alt="github stat"/>
